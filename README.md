@@ -1,4 +1,8 @@
-# Minimal Mistakes remote theme starter
+# This site is based on the Minimal Mistakes remote theme starter
+
+In the slow process of updating everything to fit here.
+
+## Information on use below
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
